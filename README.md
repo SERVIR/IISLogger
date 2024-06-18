@@ -122,9 +122,9 @@ unique IPs from the logs table. The geolocation table will need to be joined wit
 geolocation information. For more info on geoip2, please see:
 https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
 
-**To use the GelocateIPs script, you will need to establish your own local copy of a country geoip2 database.**
+**To use the GeolocateIPs script, you will need to establish your own local copy of a country geoip2 database.**
 
-Your gelocation database table should be defined as:
+Your geolocation database table should be defined as:
 ```sql
 CREATE TABLE [YOUR_GEOLOCATION_TABLE]
 (
