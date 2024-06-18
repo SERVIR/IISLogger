@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+    name: Lance Gilliland
+    organization: SERVIR - https://servirglobal.net/
+    orcid: https://orcid.org/0009-0006-0006-9675
+title: "SERVIR automation script: IIS Logger"
+version: "1.0"

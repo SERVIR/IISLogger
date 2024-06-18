@@ -1,0 +1,10 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2015-04-19 00:00:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-04-19 00:00:47 10.5.5.22 GET /data/geos_s2s/2023/aug19/ens1/ - 443 - 216.244.66.196 Mozilla/5.0+(compatible;+DotBot/1.2;++https://opensiteexplorer.org/dotbot;+help@moz.com) - 200 0 0 88
+2015-04-19 00:00:55 10.5.5.22 GET /data/esi/4WK/2014/DFPPM_4WK_2014036.tif - 443 - 52.167.144.237 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:125.0)+Gecko/20100101+Firefox/125.0 - 200 0 0 3427
+2015-04-19 00:40:25 10.5.5.22 GET /TrainingMaterials/SAR/Ch2-Content.pdf - 443 - 210.138.101.69 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko https://www.google.com/ 206 0 0 571
+2015-04-19 00:40:40 10.5.5.22 GET /robots.txt - 80 - 216.244.66.196 Mozilla/5.0+(compatible;+DotBot/1.2;++https://opensiteexplorer.org/dotbot;+help@moz.com) - 301 0 0 20
+2015-04-19 00:40:40 10.5.5.22 GET /robots.txt - 443 - 216.244.66.196 Mozilla/5.0+(compatible;+DotBot/1.2;++https://opensiteexplorer.org/dotbot;+help@moz.com) - 404 0 2 22
+2015-04-19 00:41:25 10.5.5.22 GET /TrainingMaterials/SAR/TestEntry.pdf - 443 - 210.138.101.69 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:125.0)+Gecko/20100101+Firefox/125.0 https://www.google.com/ 206 0 0 571
