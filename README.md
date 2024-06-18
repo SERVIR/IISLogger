@@ -54,7 +54,7 @@ containing "TrainingMaterials/SAR".
 
 ## Environment:
 ReadIISLogs.py has been developed with python 3.9, and makes use of compatible psycopg2, pandas, sqlalchemy, and pickle
-libraries, in addition to other standard python libs. A PostgresQL database was used in this project. Psycopg2 is
+libraries, in addition to other standard python libs. A PostgreSQL database was used in this project. Psycopg2 is
 used for the DB connection when reading the latest log entry date/time. Sclalchemy's create_engine() is used for
 the DB connection when calling the pandas dataframe's to_sql() method to write the data to a table. The
 config/connection info for the required DB and table is included in the Pickle.py file.
